@@ -1,0 +1,48 @@
+.container-personalizado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background-color: rgba(56, 56, 215, 0.412); */
+    height: 100vh;
+}
+
+.form-login {
+    min-width: 300px;
+    max-width: 960px;
+    width: 90%;
+    padding: 50px;
+    border-radius: 20px;
+    background-color: rgb(29, 24, 24);
+}
+
+.form-login .linha {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    /* border: 1px solid red; */
+}
+
+.form-login .linha label {
+    margin-bottom: 20px;
+    font-family: "Roboto-Light";
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
+.form-login .linha input {
+    font-family: "Roboto-Light";
+    border-radius: 10px;
+    padding: 10px;
+    height: 40px;
+}
+
+.form-login .btn-actions {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.form-login .btn-actions button {
+    width: 48%;
+    margin-top: 30px;
+}
