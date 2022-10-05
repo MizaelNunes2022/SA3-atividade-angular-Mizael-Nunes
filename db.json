@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$Asp7MTw588YCNbKII.91tOwElKZB9vbq8rH4ztYgWMIHhW3MHlh0y",
+      "id": 1
+    },
+    {
+      "email": "mizael.nunes@nunes.com",
+      "password": "$2a$10$JAc16.Hl4ugZXDfIYdmwZecgI7vXQlx4Bgv8bZoa/ZsE3cqhmpFGW",
+      "id": 2
+    },
+    {
+      "email": "nunes@nunes.com",
+      "password": "$2a$10$5SAz3LcyMyT328591njGEuRUMLzRL9N6Eime4tL/EijQWqCrNBkIa",
+      "id": 3
+    },
+    {
+      "email": "hele@hotmail.com",
+      "password": "$2a$10$V5ERCn2UzMN8DrYuZNDw1O9fPVkrEAdX3pVZbqOkpZne/67Zqobme",
+      "id": 4
+    }
+  ]
+}
